@@ -1,1 +1,1 @@
-![header](https://github.com/nhawlao/nhawlao/assets/main/card-sobre-mim.png?raw=true)
+![header sobre mim](https://github.com/nhawlao/nhawlao/blob/main/assets/card-sobre-mim.png)
